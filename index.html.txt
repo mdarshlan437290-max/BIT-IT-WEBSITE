@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIT SOFTWARE SOLUTIONS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to BIT SOFTWARE SOLUTIONS</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a tech startup focused on Web Development, App Development, and AI Solutions.</p>
+        <p>Founded by B.Tech IT student Arshu.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>App Development</li>
+            <li>AI & Machine Learning Solutions</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: your-email@example.com</p>
+        <p>LinkedIn: your-linkedin-profile</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 BIT SOFTWARE SOLUTIONS</p>
+    </footer>
+</body>
+</html>
